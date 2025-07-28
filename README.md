@@ -1,16 +1,34 @@
-# login
+# 🛒 Simple Homepage of Flutter
 
-A new Flutter project.
+This project is a simple homepage developed after just one day of learning Flutter. It features Sign Up and Sign In pages and incorporates some basic functionalities.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🔐 **User Authentication**
+  - Sign up / Login with email and password
+  - Validation for password and email
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠️ Tech Stack
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Dart** (Android)
+- **Material Design Components**
+
+---
+
+## 🖼️ Screenshots
+
+| Sign In | Sign Up |
+|-------|---------|
+| ![sign_in](screenshots/sign_in.png) | ![sign_up](screenshots/sign_up.png) |
+
+
+
+---
+
+## 📌 Note
+
+This program marks my first attempt at UX/UI development with Flutter. There's still plenty to refine, but it's a start!
+
