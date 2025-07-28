@@ -22,7 +22,7 @@ This project is a simple homepage developed after just one day of learning Flutt
 
 | Sign In | Sign Up |
 |-------|---------|
-| ![sign_in](screenshots/sign_in.png) | ![sign_up](screenshots/sign_up.png) |
+| ![sign_in](screenshots/sign_in_fixed.png) | ![sign_up](screenshots/sign_up.png) |
 
 
 
